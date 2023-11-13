@@ -1,1 +1,1 @@
-# stage-1-rs-school
+https://maksimr02.github.io/rsschool-cv/cv
