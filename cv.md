@@ -24,7 +24,7 @@ function spinWords(string) {
 }
 ```
 6. Experience.\
-I am currently working on a project <https://github.com/MaksimR02/rsschool-cv>
+I am currently working on a project <https://github.com/MaksimR02/stage-1-rs-school>
 7. Education\
 I am currently taking a course in programming from RS School
 8. English language\
