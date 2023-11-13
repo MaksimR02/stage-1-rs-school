@@ -1,1 +1,1 @@
-https://maksimr02.github.io/rsschool-cv/cv
+https://maksimr02.github.io/stage-1-rs-school/cv
